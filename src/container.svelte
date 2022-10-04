@@ -25,9 +25,10 @@
 </script>
 <div>
     <h4>Today's Date: {dateString}</h4>
-    <h2>There are {numberOfDaysLeft} days left in {year}</h2>
+    <h2>There are <span class="highlight">{numberOfDaysLeft}</span> days left in {year}</h2>
 </div>
 
 
-<style>
+<style type="text/scss">
+	@import "../styles.scss";
 </style>

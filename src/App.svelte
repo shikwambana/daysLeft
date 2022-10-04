@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Number of Days Left</h1>
+	<h1 class="highlight">Number of Days Left</h1>
 	<Container/>
 </main>
 
