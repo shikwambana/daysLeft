@@ -1,0 +1,9 @@
+{
+    "name": "Days Left in the Year",
+    "short_name" : "Days Left",
+    "icons": [],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#009faf",
+    "theme_color": "##4dd0e1"
+}
